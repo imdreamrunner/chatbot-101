@@ -1,0 +1,20 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "source env.sh && node src/bot2.js",
+    "watch": "nodemon --watch ./src -e js -x \"npm run serve\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
