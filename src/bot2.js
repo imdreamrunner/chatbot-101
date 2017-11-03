@@ -41,6 +41,7 @@ bot.on('conversationUpdate', function (message) {
 
 
 bot.dialog('DisplayMenu', [function (session) {
+    console.log(session.message.user);
     var msg = new builder.Message(session)
         .text("Hi! Welcome to the IONS Restaurants.\nWhat can I do for you today?")
         .suggestedActions(

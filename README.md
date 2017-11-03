@@ -1,4 +1,13 @@
-Sample `env.sh`
+### URLs
+
+* Bot framework: https://dev.botframework.com
+* LUIS https://www.luis.ai
+* Emulator https://emulator.botframework.com/
+* Integrate Web App https://docs.microsoft.com/en-us/bot-framework/bot-design-pattern-embed-web-site
+
+
+
+### Sample `env.sh`
 
 ```bash
 export MICROSOFT_APP_ID="eec347bf-7794-440e-99c5-e14d1d9577b1"
