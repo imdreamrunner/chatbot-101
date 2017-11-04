@@ -1,3 +1,5 @@
+Notes: https://docs.google.com/document/d/1nxaVIpL72o9eE8ckciaG2x2s1CJz0lNd1uvCGk4xCY0/edit?usp=sharing
+
 ### URLs
 
 * Node.js https://nodejs.org/en/
